@@ -49,3 +49,4 @@ http
 
 Right-click packet → Export Packet Dissections → As Plain Text
 
+✅ *This documentation demonstrates awareness of browser-based security threats and good cybersecurity practices.*
